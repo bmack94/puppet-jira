@@ -7,6 +7,8 @@
 [![Puppet Forge - endorsement](https://img.shields.io/puppetforge/e/puppet/jira.svg)](https://forge.puppetlabs.com/puppet/jira)
 [![Puppet Forge - scores](https://img.shields.io/puppetforge/f/puppet/jira.svg)](https://forge.puppetlabs.com/puppet/jira)
 
+#### This will only fix CentOS7 installation with postgesql, openjdk, nginx on puppet5 jira version 7.12.3
+
 #### Table of Contents
 
 1. [Overview](#overview)
